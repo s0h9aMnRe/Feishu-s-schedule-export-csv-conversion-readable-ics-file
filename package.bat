@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --name CSVToICSConverter --distpath . csv_to_ics_converter.py
