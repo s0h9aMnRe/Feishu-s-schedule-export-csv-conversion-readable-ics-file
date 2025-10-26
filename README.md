@@ -68,5 +68,3 @@ CSV转换ics工具是一个用于将CSV格式的日程数据转换为ICS日历�
 ## 开发致谢
 本工具完全通过AiPy（Advanced Intelligence Python）开发完成，感谢AiPy提供的强大开发能力和支持。
 
-## 许可证
-本项目采用MIT许可证，详情请参见LICENSE文件。
